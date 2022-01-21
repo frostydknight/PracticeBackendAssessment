@@ -1,0 +1,24 @@
+{
+  "name": "practicebackendassessment",
+  "version": "1.0.0",
+  "description": "Practice Backend Assessment for Hatchways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostydknight/PracticeBackendAssessment.git"
+  },
+  "author": "Christopher Magee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostydknight/PracticeBackendAssessment/issues"
+  },
+  "homepage": "https://github.com/frostydknight/PracticeBackendAssessment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
