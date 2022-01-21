@@ -1,4 +1,6 @@
 # PracticeBackendAssessment
+requirements for project on https://hatchways.notion.site/hatchways/Back-End-Practice-Assessment-0a110db665384575a94d93faab787f0e
+
 ## JSON Recipe File
 
 You can paste the following JSON into a file called `data.json`, and use it as your data source
